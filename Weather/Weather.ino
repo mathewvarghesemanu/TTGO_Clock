@@ -125,7 +125,7 @@ void setup(void) {
   // GMT +8 = 28800
   // GMT -1 = -3600
   // GMT 0 = 0
-  timeClient.setTimeOffset(-28800);   /*EDDITTTTTTTTTTTTTTTTTTTTTTTT                      */
+  timeClient.setTimeOffset(-25200);   /*EDDITTTTTTTTTTTTTTTTTTTTTTTT                      */
   getData();
   delay(500);
 }
